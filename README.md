@@ -1,2 +1,2 @@
-# exercicios_bootcamp_womakerscode
-Exercícios de fixação para aprendizagem de Python no Bootcamp de Data Analytics WoMakersCode.
+# Desafios - Bootcamp WoMakersCode
+Exercícios de fixação feito em grupo para aprendizagem dentro do Bootcamp de Data Analytics WoMakersCode.
